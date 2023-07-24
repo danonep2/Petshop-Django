@@ -19,8 +19,11 @@ Este projeto foi uma a entrega de uma avaliação da disciplina de Banco de Dado
 <hr/>
 
 # Screenshots 📸
-<img src="screenshots/img01.png" width="49%">
-<img src="screenshots/img02.png" width="49%">
+<div display="inline">
+    <img src="screenshots/img01.png" width="49%">
+    <img src="screenshots/img02.png" width="49%">
+</div>
+
 
 # Como usar 💻
 
