@@ -1,8 +1,4 @@
-<div aling="center">
-
-# Petshop - Django
-
-</div>
+<h1 align="center"> Petshop - Django 🐶 </h1>
 
 # Índices 🗂
 * [Sobre](#sobre-)
